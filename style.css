@@ -108,20 +108,28 @@
 }
 
 .hero .heroleft .icons .fa-github{
-    font-size: 51px;
+    font-size: 45px;
+    padding-left: 5px;
+    padding-top: 4px;
 }
 
 .hero .heroleft .icons .fa-linkedin-in{
-    font-size: 51px;
+    font-size: 45px;
+    padding-left: 6px;
+    padding-top: 3px;
 }
 
 
 .hero .heroleft .icons .fa-twitter{
-    font-size: 51px;
+    font-size: 45px;
+    padding-left: 5px;
+    padding-top: 4px;
 }
 
 .hero .heroleft .icons .fa-google{
-    font-size: 51px;
+    font-size: 45px;
+    padding-left: 6px;
+    padding-top: 5px;
 }
 
 
